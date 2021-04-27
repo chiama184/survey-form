@@ -1,0 +1,57 @@
+label {
+    color:black;
+    padding: 5px;
+    margin: 5px;
+    width: 5px;
+  }
+   #Imput {
+    color: white;
+    padding: 60%;
+    width: 50%;
+  
+  }
+    body{
+      background-color:#e6e6ff ;
+      margin-left: 50px;
+      margin-right: 50px;
+      min-height: 50px;
+    }
+ #botton  {
+      display: block;
+      width: 100%;
+      border-radius: 2px;
+      cursor: pointer;
+      margin-left: 50px;
+      margin-right: 50px;
+      min-height: 50px;
+    }
+    
+    textarea {
+      margin: 0;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      padding: 30px;
+      margin-left: 50px;
+      margin-right: 50px;
+      min-height: 50px;
+}
+
+
+}
+h1  {
+  background-color:white;    
+  text-align: center;
+  width: 60%;
+  border-radius: 40px;
+  margin-left: auto;
+   margin-right: auto;
+   min-height: 50px;
+}
+ div {
+  margin:auto;
+  width: 50%;
+  border: 20px solid white;
+  padding: 30px;
+  vertical-align: middle;
+} 
